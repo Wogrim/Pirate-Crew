@@ -1,0 +1,16 @@
+.TitleBar {
+    background-color: rgb(104, 53, 21);
+    border: 3px solid black;
+    padding: 5px 10px;
+}
+
+.TitleBar > h1 {
+    font-size: 3em;
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+}
+
+.children{
+    display:inline;
+}

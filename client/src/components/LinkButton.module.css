@@ -1,0 +1,8 @@
+button.LinkButton {
+    background-color: rgb(36, 36, 165);
+    color: whitesmoke;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    width: 100px;
+    padding: 5px 10px;
+}

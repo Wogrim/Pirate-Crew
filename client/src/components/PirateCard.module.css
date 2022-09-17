@@ -1,0 +1,29 @@
+.PirateCard {
+    background-color:antiquewhite;
+    border: 2px solid black;
+    padding: 10px;
+    height: 200px;
+    display:flex;
+    margin-bottom:20px;
+}
+
+.PirateCard:last-child{
+    margin-bottom:0;
+}
+
+.PirateCard > img{
+    height: 100%;
+}
+
+.info{
+    flex-grow:1;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons{
+    display:flex;
+    justify-content: space-between;
+}

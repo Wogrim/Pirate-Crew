@@ -1,0 +1,21 @@
+.OnePirate {
+    display:flex;
+    height: 100%;
+}
+
+.OnePirate > div {
+    flex: 1;
+    height: 100%;
+}
+
+img.img {
+    display: block;
+    margin: 0 auto;
+    height: 50%;
+}
+
+h1.quote {
+    font-size: 3em;
+    text-align: center;
+    font-style:italic;
+}

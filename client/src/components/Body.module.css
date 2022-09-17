@@ -1,0 +1,7 @@
+.Body {
+    background-color: orange;
+    border: 2px solid black;
+    overflow: auto;
+    height: 600px;
+    padding: 20px;
+}
